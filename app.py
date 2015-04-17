@@ -13,10 +13,10 @@ from tweepy import Stream
 
 
 # Authentication details
-consumer_key = 'MbYMNgh4zjOxrEzTSciiVKtIq'
-consumer_secret = 'fJ2ESGAHXGX9T8DcGpwVkUey7dk6BCuuGTEwIXqpznAS0QcCTy'
-access_token = '724796449-NjYSTlMnVCK3cMVLESCM636CISH18Avqp2VaPuZS'
-access_token_secret = 'aOWD8WtwzYIMRZ1mHx1fgN4B2dj6iVtxDjGTaayJAEAWr'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 app = Flask(__name__)
